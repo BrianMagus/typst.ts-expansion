@@ -245,20 +245,20 @@ reflexo-vec2svg = { path = "crates/conversion/vec2svg/" }
 # typst-pdf = { git = "https://github.com/Myriad-Dreamin/typst.git", branch = "typst-ts-v0.10.0" }
 
 # comemo = { git = "https://github.com/Dherse/comemo", rev = "15c8d5b" }
-typst = { path = "../typst-expansion/crates/typst" }
-typst-syntax = { path = "../typst-expansion/crates/typst-syntax" }
-typst-ide = { path = "../typst-expansion/crates/typst-ide" }
-typst-render = { path = "../typst-expansion/crates/typst-render" }
-typst-svg = { path = "../typst-expansion/crates/typst-svg" }
-typst-pdf = { path = "../typst-expansion/crates/typst-pdf" }
-typst-eval = { path = "../typst-expansion/crates/typst-eval" }
-typst-html = { path = "../typst-expansion/crates/typst-html" }
-typst-layout = { path = "../typst-expansion/crates/typst-layout" }
-typst-library = { path = "../typst-expansion/crates/typst-library" }
-typst-macros = { path = "../typst-expansion/crates/typst-macros" }
-typst-timing = { path = "../typst-expansion/crates/typst-timing" }
-typst-utils = { path = "../typst-expansion/crates/typst-utils" }
-typst-bundle = { path = "../typst-expansion/crates/typst-bundle" }
+typst = { git = "https://github.com/Myriad-Dreamin/typst.git", tag = "typst.ts/v0.8.0" }
+typst-syntax = { git = "https://github.com/Myriad-Dreamin/typst.git", tag = "typst.ts/v0.8.0" }
+typst-ide = { git = "https://github.com/Myriad-Dreamin/typst.git", tag = "typst.ts/v0.8.0" }
+typst-render = { git = "https://github.com/Myriad-Dreamin/typst.git", tag = "typst.ts/v0.8.0" }
+typst-svg = { git = "https://github.com/Myriad-Dreamin/typst.git", tag = "typst.ts/v0.8.0" }
+typst-pdf = { git = "https://github.com/Myriad-Dreamin/typst.git", tag = "typst.ts/v0.8.0" }
+typst-eval = { git = "https://github.com/Myriad-Dreamin/typst.git", tag = "typst.ts/v0.8.0" }
+typst-html = { git = "https://github.com/Myriad-Dreamin/typst.git", tag = "typst.ts/v0.8.0" }
+typst-layout = { git = "https://github.com/Myriad-Dreamin/typst.git", tag = "typst.ts/v0.8.0" }
+typst-library = { git = "https://github.com/Myriad-Dreamin/typst.git", tag = "typst.ts/v0.8.0" }
+typst-macros = { git = "https://github.com/Myriad-Dreamin/typst.git", tag = "typst.ts/v0.8.0" }
+typst-timing = { git = "https://github.com/Myriad-Dreamin/typst.git", tag = "typst.ts/v0.8.0" }
+typst-utils = { git = "https://github.com/Myriad-Dreamin/typst.git", tag = "typst.ts/v0.8.0" }
+typst-bundle = { git = "https://github.com/Myriad-Dreamin/typst.git", tag = "typst.ts/v0.8.0" }
 
 # comemo = { path = "../comemo" }
 # typst = { path = "../typst/crates/typst" }

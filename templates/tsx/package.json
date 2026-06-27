@@ -12,10 +12,10 @@
     "@myriaddreamin/typst.ts": "^0.7.0"
   },
   "devDependencies": {
-    "@types/web": "^0.0.188",
     "@types/node": "^20.6.3",
-    "typescript": "=5.8.3",
-    "tslib": "2.5.2"
+    "@types/web": "^0.0.188",
+    "tslib": "2.5.2",
+    "typescript": "=5.8.3"
   },
   "peerDependencies": {
     "tsx": "^4.19.3"

@@ -31,24 +31,24 @@
 		}
 	},
 	"peerDependencies": {
-		"svelte": "^5.0.0",
 		"@myriaddreamin/typst-ts-renderer": "0.8.0-rc2",
 		"@myriaddreamin/typst-ts-web-compiler": "0.8.0-rc2",
-		"@myriaddreamin/typst.ts": "0.8.0-rc2"
+		"@myriaddreamin/typst.ts": "0.8.0-rc2",
+		"svelte": "^5.0.0"
 	},
 	"devDependencies": {
 		"@myriaddreamin/typst-ts-renderer": "0.8.0-rc2",
 		"@myriaddreamin/typst-ts-web-compiler": "0.8.0-rc2",
 		"@myriaddreamin/typst.ts": "0.8.0-rc2",
-		"playwright": "^1.52.0",
-		"typescript": "*",
-		"vite": "*",
 		"@sveltejs/adapter-auto": "^7.0.0",
 		"@sveltejs/kit": "^2.49.1",
 		"@sveltejs/package": "^2.5.7",
 		"@sveltejs/vite-plugin-svelte": "^6.2.1",
+		"playwright": "^1.52.0",
 		"svelte": "^5.45.6",
-		"svelte-check": "^4.3.4"
+		"svelte-check": "^4.3.4",
+		"typescript": "*",
+		"vite": "*"
 	},
 	"keywords": [
 		"svelte"
